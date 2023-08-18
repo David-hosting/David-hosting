@@ -14,6 +14,8 @@
 <a href="https://linkedin.com/in/david-ioffe-b80aa4220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david ioffe" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20102061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20102061" height="30" width="40" /></a>
 <a href="https://instagram.com/actualldavid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="actualldavid" height="30" width="40" /></a>
+<a href="https://github.com/david-ioffe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="actualldavid" height="30" width="40" /></a>
+<a href="", target=blank></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
