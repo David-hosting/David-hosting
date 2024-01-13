@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, C#, SQL, ASP NET.**
 
-- 📫 How to reach me **davidioster1@gmail.com**
+- 📫 How to reach me **david.ioffe@mail.huji.ac.il**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
