@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-hosting&label=Profile%20views&color=0e75b6&style=flat" alt="david-hosting" /> </p>
 
-- 🔭 I’m currently working on [AntiAir Balloon Detector AI](https://github.com/David-hosting/AntiAir-Balloon-Detection-AI)
+- 🔭 I’m currently working on: Degree in Computer Engineering at the Hebrew University of Jerusalem
 
-- 🌱 I’m currently learning **Python, C#, SQL, ASP NET.**
+- 🌱 I’m currently learning **C-C++, Data Structures, ASP NET.**
 
 - 📫 How to reach me **david.ioffe@mail.huji.ac.il**
 
